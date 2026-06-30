@@ -1,191 +1,175 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Hi%20There!%20I'm%20Vaishnavi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F0F0F,30:18181B,60:4F46E5,100:7C3AED&text=VAISHNAVI&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Enthusiast%20•%20Problem%20Solver&descAlignY=58"/>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Final-Year+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Java+%7C+React+%7C+Spring+Boot;Always+Learning+New+Technologies" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hello+World!+👋;I'm+Vaishnavi;Full+Stack+Developer;React+Developer;Java+Developer;Currently+Learning+Spring+Boot;Always+Building+Something+Amazing+🚀"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/VaishnaviPoojary11">
+    <img src="https://img.shields.io/github/followers/VaishnaviPoojary11?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=VaishnaviPoojary11&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-# 👋 About Me
+# 👩‍💻 About Me
 
-<img align="right" width="340" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-java
-public class Vaishnavi {
-
-    String role = "Full Stack Developer";
-
-    String education = "Final Year Engineering Student";
-
-    String passion = "Building Beautiful Applications";
-
-    String currentlyLearning = "Spring Boot & Bootstrap";
-
-    String interests = "Artificial Intelligence";
-
-    String hobby = "Dancing 💃";
-
-}
-
-
-### 💫 A little more about me
-
-🎓 Final Year Engineering Student
+🎓 Final-Year Engineering Student
 
 💻 Passionate about Full Stack Development
 
-🚀 Love building real-world applications
+🌱 Currently learning *Spring Boot* and *Bootstrap*
 
-🌱 Learning Spring Boot & Bootstrap
+⚛️ Exploring Artificial Intelligence and Modern Web Technologies
 
-⚛️ Experienced with React
+🚀 Love building practical applications that solve real-world problems
 
-🤖 Exploring Artificial Intelligence
+🎯 Aspiring Software Engineer
 
-📚 Strong in Java, HTML, CSS & JavaScript
-
-💡 Constantly learning new technologies
+💃 Fun Fact: Dancing is one of my favorite hobbies.
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
-## Languages
+### Programming Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
 </p>
 
-## Frameworks
+*Other Skills*
 
-<p>
+- SQL
+- MySQL
+- Data Structures & Algorithms (DSA)
 
-<img src="https://skillicons.dev/icons?i=react"/>
+---
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=spring"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,spring" />
 </p>
 
-## Database
+---
 
-<p>
+### Tools
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman" />
 </p>
 
-## Tools
+---
 
-<p>
+# 🌱 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=eclipse"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-</p>
+- Spring Boot
+- Bootstrap
+- Advanced Java
+- REST APIs
+- Backend Development
+- Full Stack Java Development
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
+## 🤖 AI-Powered Digital Dermatology
 
-<tr>
-
-<td width="50%">
-
-## 🤖 AI Powered Digital Dermatology
-
-AI-powered application that detects skin diseases, identifies skin types, and recommends personalized skincare.
-
-</td>
-
-<td width="50%">
-
-## 🚗 AutoCare Hub
-
-Vehicle management platform for maintenance tracking, service booking, reminders, and vehicle records.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🏥 Manasvi Hospital Website
-
-Frontend developer for a responsive hospital website focused on usability and accessibility.
-
-</td>
-
-<td>
-
-## 🎬 Netflix Clone
-
-Modern movie application integrated with OMDb API featuring authentication and movie search.
-
-</td>
-
-</tr>
-
-</table>
+AI-based application that detects skin diseases, identifies skin types, and recommends personalized skincare solutions.
 
 ---
 
-# 📈 GitHub Statistics
+## 🚗 AutoCare Hub
+
+A vehicle management platform for booking services, tracking maintenance schedules, managing vehicle records, and viewing service history.
+
+---
+
+## 🏥 Manasvi Hospital Website
+
+Designed and developed the frontend of a hospital website with a responsive and user-friendly interface.
+
+---
+
+## 🎬 Netflix Clone
+
+A responsive movie application integrated with the OMDb API featuring authentication and movie search functionality.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPoojary11&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPoojary11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPoojary11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPoojary11&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=VaishnaviPoojary11&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VaishnaviPoojary11&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaishnaviPoojary11&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/VaishnaviPoojary11/VaishnaviPoojary11/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> *Note:* The snake animation requires a GitHub Action to generate automatically.
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+📧 *Email:* **VaishnaviPoojari98@gmail.com*
+
+💻 *GitHub:* https://github.com/VaishnaviPoojary11
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 "Keep Learning • Keep Building • Keep Growing"
+
+"Success comes from continuous learning and consistent effort."
 
 </p>
 
 <p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=VaishnaviPoojary11&theme=tokyonight&hide_border=true"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
 </p>
