@@ -137,16 +137,6 @@ Responsive movie application using the OMDb API with authentication and movie se
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/VaishnaviPoojary11/VaishnaviPoojary11/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> *Note:* Enable a GitHub Action to generate the contribution snake automatically.
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
