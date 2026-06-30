@@ -151,7 +151,7 @@ Responsive movie application using the OMDb API with authentication and movie se
 
 <p align="center">
 
-📧 *Email:* **VaishnaviPoojari98@gmail.com*
+📧 *Email:* **Vaishnavipoojary98@gmail.com*
 
 💻 *GitHub:* **github.com/VaishnaviPoojary11**
 
