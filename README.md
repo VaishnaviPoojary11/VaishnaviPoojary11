@@ -40,7 +40,7 @@
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,,python,c" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,python,c" />
 </p>
 
 ---
