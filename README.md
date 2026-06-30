@@ -105,9 +105,9 @@ Responsive movie application using the OMDb API with authentication and movie se
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPoojary11&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPoojary11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPoojary11&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPoojary11&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </p>
 
