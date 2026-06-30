@@ -7,7 +7,7 @@
 <!-- ====================== TYPING ====================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Final-Year+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Java+%7C+React+%7C+Spring+Boot;Always+Learning+New+Technologies+🚀"/>
+ font=Space+Grotesk&weight=700&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Final-Year+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Java+%7C+React+%7C+Spring+Boot;Always+Learning+New+Technologies+🚀"/>
 </p>
 
 <!-- ====================== BADGES ====================== -->
