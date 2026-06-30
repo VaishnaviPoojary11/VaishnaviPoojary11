@@ -101,17 +101,7 @@ Responsive movie application using the OMDb API with authentication and movie se
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaishnaviPoojary11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviPoojary11&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -121,13 +111,7 @@ Responsive movie application using the OMDb API with authentication and movie se
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VaishnaviPoojary11&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
